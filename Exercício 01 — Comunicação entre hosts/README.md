@@ -17,9 +17,7 @@ dados.
 Dois computadores estão conectados ao mesmo switch Ethernet. Ambos
 possuem endereços IPv4 pertencentes à mesma rede.
 
-``` text
 ![Topologia do laboratório: dois computadores conectados a um switch Layer 2](topologia-exercicio-01.png)
-```
 
 Configurações de rede:
 
